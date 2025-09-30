@@ -32,7 +32,7 @@ export const login = async (req, res, next) => {
         id: user._id,
         isSeller: user.isSeller,
       },
-      process.env.JWT_SECRET  // Changed from JWT_KEY to JWT_SECRET to match your .env file
+      process.env.JWT_SECRET
     );
 
     const { password, ...info } = user._doc;
