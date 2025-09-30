@@ -26,7 +26,6 @@ Connects to a database to store users, jobs, and applications.
 Supports role-based access control for employers and gig workers.
 
 Folder Structure
-text
 GigConnect/
 │
 ├── client/           # Frontend React app
@@ -37,22 +36,19 @@ GigConnect/
 Getting Started
 Clone the repository:
 
-text
 git clone https://github.com/ThummarDensi/GigConnect.git
 Install dependencies for both frontend and backend:
 
-text
 cd client
 npm install
 cd ../api
 npm install
 Run the backend server:
 
-text
 npm start
 Run the frontend client:
 
-text
+
 cd ../client
 npm start
 Open your browser and navigate to http://localhost:3000
