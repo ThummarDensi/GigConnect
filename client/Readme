@@ -1,0 +1,15 @@
+1. git clone --single-branch -b "react-mini" https://github.com/safak/youtube23.git
+
+2. npm install scss
+
+3.  npm install eslint --dev
+
+4. npx eslint --init 
+
+5. npm install react-router-dom
+
+6. npm install @tanstack/react-query --legacy-peer-deps
+
+7. npm install axios --legacy-peer-deps
+
+8. npm install @stripe/stripe-js --legacy-peer-deps
