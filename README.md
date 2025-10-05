@@ -25,10 +25,7 @@ Welcome to Fiverr Clone, a dynamic freelance marketplace designed to connect cli
 - **Media Storage:** Seamlessly store images and videos using Cloudinary for efficient content management.
 
 <<<<<<< HEAD
-## Demo
-https://www.linkedin.com/posts/anurag-dalsaniya-48a48b254_fiverrclone-reactjs-nodejs-activity-7128618535349612544-Y9U3?utm_source=share&utm_medium=member_android
 
-=======
 >>>>>>> 33738693e24110563d5033cbb428336e699cc0b7
 ## Tech Stack
 - SCSS
@@ -44,8 +41,6 @@ https://www.linkedin.com/posts/anurag-dalsaniya-48a48b254_fiverrclone-reactjs-no
 1. Clone the repository:
    ```bash
 <<<<<<< HEAD
-   git clone https://github.com/yourusername/fiverr-clone.git
-   cd fiverr-clone
 =======
    git clone https://github.com/ThummarDensi/GigConnect.git
 >>>>>>> 33738693e24110563d5033cbb428336e699cc0b7
