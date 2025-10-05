@@ -41,9 +41,8 @@ Welcome to Fiverr Clone, a dynamic freelance marketplace designed to connect cli
 1. Clone the repository:
    ```bash
 <<<<<<< HEAD
+  git clone https://github.com/ThummarDensi/GigConnect.git
 =======
-   git clone https://github.com/ThummarDensi/GigConnect.git
->>>>>>> 33738693e24110563d5033cbb428336e699cc0b7
    cd client
    npm install
    cd..
