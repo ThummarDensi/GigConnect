@@ -1,4 +1,4 @@
-# Fiverr Clone - Freelance Marketplace
+# Fiverr GigCorrect - Freelance Marketplace
 
 ## Overview
 
