@@ -24,9 +24,6 @@ Welcome to Fiverr Clone, a dynamic freelance marketplace designed to connect cli
 
 - **Media Storage:** Seamlessly store images and videos using Cloudinary for efficient content management.
 
-<<<<<<< HEAD
-
->>>>>>> 33738693e24110563d5033cbb428336e699cc0b7
 ## Tech Stack
 - SCSS
 - React.js
@@ -40,9 +37,7 @@ Welcome to Fiverr Clone, a dynamic freelance marketplace designed to connect cli
 
 1. Clone the repository:
    ```bash
-<<<<<<< HEAD
-  git clone https://github.com/ThummarDensi/GigConnect.git
-=======
+   git clone https://github.com/ThummarDensi/GigConnect.git
    cd client
    npm install
    cd..
