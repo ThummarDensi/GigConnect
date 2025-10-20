@@ -5,7 +5,7 @@ Give a ⭐️ if you like this project!
 
 Welcome to Fiverr GigConnect, a dynamic freelance marketplace designed to connect clients with a diverse pool of talented freelancers. This project is built using modern technologies including React.js, Node.js, Express.js, and MongoDB. Whether you're a client looking for services or a freelancer eager to showcase your skills, Fiverr Clone has you covered.
 
-<a href="https://ibb.co/spsyzSjL"><img src="https://i.ibb.co/6cDgLhY6/web-view03.gif" alt="web-view03" border="0"></a>
+<p> Live Demo :-<a href="https://i.ibb.co/16SWfbg/Fiverr-Gif.gif"></a> </p>
 
 <h2 align="center">🖥️ Tech Stack</h2>
 
@@ -67,7 +67,7 @@ Welcome to Fiverr GigConnect, a dynamic freelance marketplace designed to connec
 
 <br />
 
-## Glimpses of Fiverr GigConnect 😉 :
+## Screenshorts of Fiverr GigConnect 😉 :
 
 <table>
   <tr>
