@@ -65,7 +65,7 @@ Welcome to Fiverr GigConnect, a dynamic freelance marketplace designed to connec
 
 <br />
 
-## Glimpses of fiverr-clone 😉 :
+## Glimpses of Fiverr GigConnect 😉 :
 
 <table>
   <tr>
